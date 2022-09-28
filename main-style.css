@@ -1,0 +1,27 @@
+body{
+    background-color:#90bbcf;
+    color:#ebe7d0;
+}
+.pg1{
+    background-color: #cfc390;
+    color: #ebe7d0;
+}
+.pg2{
+    background-color: #cf909b;
+    color: #ebe7d0;
+}
+.pg3{
+    background-color: #cf90bb;
+    color: #ebe7d0;
+}
+.pg4{
+    background-color: #bbcf90;
+    color: #ebe7d0;
+}
+.pg5{
+    background-color: #90cfc3;
+    color: #ebe7d0;
+}
+h1{
+    size: 48px;
+}
